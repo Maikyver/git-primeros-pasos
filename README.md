@@ -1,3 +1,5 @@
+﻿Milen Verdun
+
 # git-primeros-pasos
 Este es un ejercicio practico sobre el uso de Git, la idea del mismo es que despues de crear, modificar o borrar archivos se genere un _commit_ que refleje estos cambios en el repositorio.
 
